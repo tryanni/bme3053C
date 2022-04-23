@@ -1,6 +1,6 @@
 # bme3053C
 Instructions on how to run resnet50.mlx:
--Load the resnet50 addon in matlab
+ -Load the resnet50 addon in matlab
 -type resnet50 in the command window
     - If the add-on is NOT installed an error message will appear. Follow that
       prompt to install the add-on.
